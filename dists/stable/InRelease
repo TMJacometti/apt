@@ -8,26 +8,26 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: TMJLite e TMJStudio
-Date: Wed, 25 Nov 2026 16:31:07 UTC
+Date: Wed, 25 Nov 2026 16:36:06 UTC
 MD5Sum:
- 7d5921d73aa9e71b9bed3d56d906b2b4        663 main/binary-amd64/Packages
- ca0a5892f56d11dca9888fd3afb0ced1        472 main/binary-amd64/Packages.gz
+ fb241c876f3b8ea7c6e5dd562f9f27a1       1316 main/binary-amd64/Packages
+ 04b4f24298c0646bb2b13d02a9602580        715 main/binary-amd64/Packages.gz
 SHA256:
- 46508829a6a4f0e71089270c8045569bad754735ac8d912fab74783e45634319        663 main/binary-amd64/Packages
- 484be30f9ae9c029b5593b6e9e3e9351ea217fc11440289aac7a14ac439dfbbe        472 main/binary-amd64/Packages.gz
+ 4b0eaf607a7d6d31ec4d1bd54951df56b4af8100dcbdeb60c3e7419014a12753       1316 main/binary-amd64/Packages
+ 3212c0240a5ee4cc5a45208a674da37b13dba5c6e75b10464feaaa32aa1cb4d8        715 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEE9hwEFhAPEXj7f4EIQjY7vuN3VpkFAmsHDUsACgkQQjY7vuN3
-Vpk1mg/+P6n9uTP8zZQ22p+PLkcdGA7ySjiqabfrT8Svfx0a+xWV8vxvMNgyS9c9
-VqCRs8tpfZH4V9Gz2P0j/yrsvYgr2MNt1PzgRpsQtSPnhr6DdFkOJWydpYD+d/wU
-CS6dqZjvw4gy/JB2WOFPEWC4p7Dmwtc1cZr/Lkqu7y5K4l13uMdpmzQgTLv9KkfV
-yb83eP/ZXEsPn9zv4SCdnwl4qc9G5bsvjTR4YovUWQirk2t7cJSp7sLnbuQCieww
-+SzpK7e6Mj/JAOcZ2UDLuhms1tUhTJeub/0/yxfgcAs8lXMrC0qOAbVCrFFFIt4i
-sUh5Dvn26RAG0dkkTq0NAal5nBFEBuqn6SMMMjPCXzJGwWMG6CbogSE3QhxBW73i
-Nw+DZZXJrxagVrXjRx4S6HWfSSK4DzOteRX6q2UK8YEJOzddDTECjz+UB/O4+a6W
-MyhsCqydiAvFw/FOHuJbrYN6LuRz1ANWKO86MDKC/BZ/RBcjJfskVUvG6dXfzt1b
-kqnp15QOrJqH8Hlu8c62SQR6Y9BBMRjIaE3Lnoz1Npnvd8/+cdTIRmAh52KUQom5
-QxyEgXRyasUa2Y647UXNoLoUNv4xF4JTANrPeqfxKjI0lAuOrRAWucFAgxr2Q8MT
-B1rfuuPm8hXyvjQbRkke1X/WM1EpR8VX6AFqsxHgmtxUOqFq0YU=
-=Wucs
+iQIzBAEBCAAdFiEE9hwEFhAPEXj7f4EIQjY7vuN3VpkFAmsHDnYACgkQQjY7vuN3
+Vpmzaw/9FF8aB/MTElL6EaWzTsCSjrJXLmhOXHzHNwWk2Bz3IJ6mYHQp/Ylv5l+a
+rs+bc/Np9+a7nxl8ATd7iLEqZKdECyvUudlH57xVK3w3c33+zgls99yOfF7Uu5Ea
+5YoPqxxzjumoOoQl1mDtxAq+KWxPjcz7NdV0K9yTJMkw9WGB61ncegx12t7eP3zH
+jTk/eDPHvNU947/cZNPfJ+/72aP4CIfhF2CDr5yRN18CK44TCjdLsFuVOcadJ+vs
+w3YzcJ0avKAy4NEn1xYVyRj+003toHMtYIkUd6kP4s4bZf1q/Hh4AaJ8dOvi1Uyv
+cH8/bUIknaeDe9X4Xdvs4fR0Qe0OmFQtbBxUws+ATP1fL6wfF8xm0vK7+hgGSqi9
+4f8VhiWQ7f3NvWJFnoE13ocDLihbAAO+vQtjOExw7RQHZtMvdg35iM6jzV4Kqhgv
+URCJLkTg9cT0tX9EHKegdnRadVNvUTmdqpvlgbalVtkxUUMnel+sbMppvGerKgX7
+AR4f6gpYaESmTafxnaJwNs/eFu32HqhSc0tvnMCytzeYyPyiCwYeL2RmWH0bc3Ws
+vFMgndpxbZD+uNY9CZjWV+R7onBvGdbQcKpIwYqsIPqUA/R6CEKZ682CutXKkoHw
+RwNp7kH4C5lZIVB6tmDuRLGJKXtIkuw2xRN5n8ZKokxZ8cv37kw=
+=17Kb
 -----END PGP SIGNATURE-----

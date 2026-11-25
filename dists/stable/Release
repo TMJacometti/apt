@@ -5,10 +5,10 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: TMJLite e TMJStudio
-Date: Wed, 25 Nov 2026 16:31:07 UTC
+Date: Wed, 25 Nov 2026 16:36:06 UTC
 MD5Sum:
- 7d5921d73aa9e71b9bed3d56d906b2b4        663 main/binary-amd64/Packages
- ca0a5892f56d11dca9888fd3afb0ced1        472 main/binary-amd64/Packages.gz
+ fb241c876f3b8ea7c6e5dd562f9f27a1       1316 main/binary-amd64/Packages
+ 04b4f24298c0646bb2b13d02a9602580        715 main/binary-amd64/Packages.gz
 SHA256:
- 46508829a6a4f0e71089270c8045569bad754735ac8d912fab74783e45634319        663 main/binary-amd64/Packages
- 484be30f9ae9c029b5593b6e9e3e9351ea217fc11440289aac7a14ac439dfbbe        472 main/binary-amd64/Packages.gz
+ 4b0eaf607a7d6d31ec4d1bd54951df56b4af8100dcbdeb60c3e7419014a12753       1316 main/binary-amd64/Packages
+ 3212c0240a5ee4cc5a45208a674da37b13dba5c6e75b10464feaaa32aa1cb4d8        715 main/binary-amd64/Packages.gz
