@@ -16,6 +16,24 @@ Description: Embedded SQL database with git-style branches of data (CLI)
  TMJLite é um banco de dados SQL embutido, em um arquivo só, com branches de
  dados no estilo do git. Este pacote traz o cliente de linha de comando.
 
+Package: tmjlite
+Version: 0.6.3
+Architecture: amd64
+Maintainer: TMJ Sistemas <noreply@tmjlite.com.br>
+Installed-Size: 3008
+Depends: libc6
+Filename: pool/main/tmjlite_0.6.3_amd64.deb
+Size: 1185474
+MD5sum: 0b2ebc3f04aa2f2eecc73ab5d74259a3
+SHA1: bccb8ea4a99ff414bae6761c8f4baea75c47d6f0
+SHA256: 0a3fa42cc64f6349462cc46540a626d3082885a2d75a83050838af49eab8820c
+Section: database
+Priority: optional
+Homepage: https://tmjlite.com.br
+Description: Embedded SQL database with git-style branches of data (CLI)
+ TMJLite é um banco de dados SQL embutido, em um arquivo só, com branches de
+ dados no estilo do git. Este pacote traz o cliente de linha de comando.
+
 Package: tmjstudio
 Version: 0.6.2
 Architecture: amd64
