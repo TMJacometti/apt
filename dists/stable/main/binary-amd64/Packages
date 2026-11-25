@@ -1,0 +1,21 @@
+Package: tmjstudio
+Version: 0.6.2
+Architecture: amd64
+Maintainer: TMJ Sistemas <noreply@tmjlite.com.br>
+Installed-Size: 13944
+Depends: libc6
+Conflicts: tmj-studio
+Replaces: tmj-studio
+Provides: tmj-studio
+Filename: pool/main/tmjstudio_0.6.2_amd64.deb
+Size: 5383552
+MD5sum: 9cc87b083ae0f597f9b62c5354f12591
+SHA1: c7f3e02090e9f2ec86d4fbcfa8fd3e807961dc8c
+SHA256: b81700728d30328c8dc948e22c145253b91d745dbde2116417eab3df7dfba150
+Section: database
+Priority: optional
+Homepage: https://tmjlite.com.br
+Description: Native IDE for the TMJLite embedded database
+ TMJStudio é a IDE nativa do TMJLite: editor de SQL, explorador de tabelas,
+ diagrama e branches de dados.
+

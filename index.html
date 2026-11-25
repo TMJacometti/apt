@@ -1,0 +1,5 @@
+<!doctype html><html lang="pt-BR"><meta charset="utf-8"><title>TMJLite — repositório apt</title><body style="font-family:system-ui;max-width:46rem;margin:3rem auto;padding:0 1rem"><h1>TMJLite — repositório apt</h1><p>Pacotes <code>tmjlite</code> (CLI) e <code>tmjstudio</code> (IDE) para Debian/Ubuntu, amd64.</p><pre style="background:#111;color:#eee;padding:1rem;overflow:auto">curl -fsSL https://tmjacometti.github.io/apt/tmjlite.gpg | sudo tee /usr/share/keyrings/tmjlite.gpg >/dev/null
+echo "deb [arch=amd64 signed-by=/usr/share/keyrings/tmjlite.gpg] https://tmjacometti.github.io/apt stable main" | sudo tee /etc/apt/sources.list.d/tmjlite.list
+sudo apt update
+sudo apt install tmjlite tmjstudio
+</pre><p><a href="https://tmjlite.com.br">tmjlite.com.br</a></p></body></html>
